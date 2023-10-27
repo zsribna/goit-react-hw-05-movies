@@ -1,0 +1,13 @@
+.goBackLink {
+  padding: 12px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  background-color: transparent;
+  color: black;
+  padding: 5px 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.DeteilsContainer {
+  margin-top: 20px;
+}
